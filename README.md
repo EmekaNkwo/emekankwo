@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Nkwo Chukwuemeka
-#### FrontEnd Developer
-I am Nkwo Chukwuemeka, I am from Nigeria. I am a FrontEnd Developer. I really enjoy learning new languages and frameworks. I enjoy what i do.
+#### Web Developer
+I am Nkwo Chukwuemeka, I am from Nigeria. I am a Web Developer. I really enjoy learning new languages and frameworks. I enjoy what i do.
 
 ## Skills
 * ⚛️ React
