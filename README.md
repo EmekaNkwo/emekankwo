@@ -6,6 +6,7 @@ I am Nkwo Chukwuemeka, I am from Nigeria. I am a Web Developer. I really enjoy l
 * ⚛️ React
 * 💻 HTML, CSS, JS
 * Bootstrap
+* SCSS
 * Git
 * Figma, Adobe XD , Photoshop
 
