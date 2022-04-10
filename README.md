@@ -8,8 +8,8 @@ I am Nkwo Chukwuemeka, I am from Nigeria. I am a Web Developer. I really enjoy l
 * Bootstrap
 * SCSS
 * Git
-* Figma, Adobe XD , Photoshop
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmekaNkwo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chukwuemekankwo/)  
 
-## Projects I have worked on ⤵️
+## Some Projects I have worked on ⤵️
