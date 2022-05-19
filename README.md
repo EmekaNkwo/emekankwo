@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Nkwo Chukwuemeka
 #### Web Developer
-I am Nkwo Chukwuemeka, I am from Nigeria. I am a Web Developer. I really enjoy learning new languages and frameworks. I enjoy what i do.
+I am Nkwo Chukwuemeka, I am a Web Developer. I really enjoy learning new languages and frameworks. I enjoy what i do.
 
 ## Skills
 * ⚛️ React
